@@ -1,0 +1,6 @@
+{
+  "name": "TR Travel",
+  "description": "Modern, premium, and fully responsive travel agency website for curated tours, Hajj & Umrah, visa services, and direct holiday package booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
